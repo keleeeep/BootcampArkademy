@@ -1,0 +1,53 @@
+.nav-arkademy {
+    color: #FB8FB2 !important;
+    font-size: x-large;
+}
+
+.nav-coffee {
+    font-size: xx-large;
+}
+
+.pink {
+    color: #FB8FB2 !important;
+}
+
+.btn-pink {
+    background-color: #FADC9C;
+    color: #fff;
+}
+
+.btn-delete {
+    color: #F74C5A;
+}
+
+.btn-edit {
+    color: #B6E496;
+}
+
+.header-bg {
+    background-color: #FADC9C;
+    color: #fff;
+}
+
+table {
+    border-collapse: collapse;
+    border-radius: 1em;
+    overflow: hidden;
+}
+
+
+.box-shadow {
+    box-shadow: lime;
+}
+
+.form-control {
+    border-top: 0 !important;
+    border-left: 0 !important;
+    border-right: 0 !important;
+    border-radius: 0% !important;
+    color: #737C83 !important;
+}
+
+.text-muted {
+    color: rgb(189, 189, 189) !important;
+}
