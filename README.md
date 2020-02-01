@@ -23,6 +23,12 @@ Harus menggunakan internet karena menggunakan CDN Bootstrap
 
 # Capture/Screenshot Demo Aplikasi
 
-# Demo 6A
+# Screenshot 6A
 
 ![img](https://i.imgur.com/pjVXLFn.png)
+![img](https://i.imgur.com/3p8AGDk.png)
+![img](https://i.imgur.com/VJjk1sQ.png)
+![img](https://i.imgur.com/AHBpx8c.png)
+![img](https://i.imgur.com/yXchVlQ.png)
+![img](https://i.imgur.com/SinCKHz.png)
+![img](https://i.imgur.com/rbQpGa4.png)
