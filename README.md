@@ -12,14 +12,14 @@ inner join Category as ctgr on prd.id_category = ctgr.id inner join Cashier as c
 
 ### Petunjuk 6B
 
-Harus menggunakan internet karena menggunakan CDN Bootstrap
+Harus menggunakan internet untuk membuka index.html karena menggunakan CDN Bootstrap
 
 ### Petunjuk 6C
 
-1. Nyalakan XAMPP
+1. Nyalakan XAMPP dan start Apache dan MySQL
 2. Import File .sql yang terdapat dalam folder
 3. Buka localhost sesuai dengan root folder
-   note : fitur edit dan delete masih belum berhasil
+4. note : fitur edit dan delete masih belum berhasil
 
 #### Capture/Screenshot Demo Aplikasi
 
