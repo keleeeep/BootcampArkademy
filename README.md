@@ -25,4 +25,4 @@ Harus menggunakan internet karena menggunakan CDN Bootstrap
 
 # Demo 6A
 
-![img](https://imgur.com/pjVXLFn)
+![img](https://i.imgur.com/pjVXLFn.png)
